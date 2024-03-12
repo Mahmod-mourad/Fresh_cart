@@ -17,7 +17,7 @@ Browse Products: Users can browse through a variety of fresh produce, groceries,
 - ***Responsive Design:*** FreshCart is designed to be responsive and compatible with various screen sizes and devices.
 
 ## Screenshot ⚛️
-<a href='https://fresh-cart-inky.vercel.app/'>
+<a href='[https://fresh-cart-inky.vercel.app](https://fresh-cart-rkqg.vercel.app/)/'>
  Live Demo 🔗
 </a>
 
