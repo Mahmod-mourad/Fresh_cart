@@ -19,6 +19,7 @@ Browse Products: Users can browse through a variety of fresh produce, groceries,
 ## Screenshot ⚛️
 <a href='[https://fresh-cart-inky.vercel.app](https://fresh-cart-rkqg.vercel.app/)/'>
  Live Demo 🔗
+ https://fresh-cart-rkqg.vercel.app/
 </a>
 
 ![ScreenShot](/src/assets/images/screenshot.png)
